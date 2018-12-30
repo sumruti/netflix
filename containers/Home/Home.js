@@ -25,7 +25,7 @@ class Home extends Component {
                         <span className="icon-bar" />
                         <span className="icon-bar" />
                       </button>
-                      <a className="navbar-brand title_logo" href="#"><img src="../../img/logo.png" alt="logo" /></a>
+                      <a className="navbar-brand title_logo" href="#"><img src="../../img/imgpsh_fullsize.png" alt="logo" /></a>
                     </div>
                     {/* Collect the nav links, forms, and other content for toggling */}
                     <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
