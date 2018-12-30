@@ -25,7 +25,7 @@ class Home extends Component {
                         <span className="icon-bar" />
                         <span className="icon-bar" />
                       </button>
-                      <a className="navbar-brand title_logo" href="#"><img src="../../Dist/img/logo.png" alt="logo" /></a>
+                      <a className="navbar-brand title_logo" href="#"><img src="../../img/logo.png" alt="logo" /></a>
                     </div>
                     {/* Collect the nav links, forms, and other content for toggling */}
                     <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -74,7 +74,7 @@ class Home extends Component {
                 <div className="background_img">
                   <Player
                       playsInline
-                      poster="../../Dist/img/maxresdefault.jpg"
+                      poster="../../img/maxresdefault.jpg"
                       src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
                     />
                 </div>
@@ -86,13 +86,13 @@ class Home extends Component {
 
                           <div className="swiper-container">
                             <div className="swiper-wrapper">
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv13.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv2.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv3.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv4.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv5.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv6.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv8.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv13.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv2.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv3.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv4.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv5.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv6.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv8.jpg" alt="video"/></div>
                             </div>
                             {/* Add Pagination */}
                             <div className="swiper-pagination" />
@@ -109,13 +109,13 @@ class Home extends Component {
 
                           <div className="swiper-container">
                             <div className="swiper-wrapper">
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv5.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv2.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv3.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv4.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv5.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv6.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv8.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv5.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv2.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv3.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv4.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv5.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv6.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv8.jpg" alt="video"/></div>
                             </div>
                             {/* Add Pagination */}
                             <div className="swiper-pagination" />
@@ -132,13 +132,13 @@ class Home extends Component {
 
                           <div className="swiper-container">
                             <div className="swiper-wrapper">
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv4.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv2.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv3.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv4.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv5.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv6.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv8.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv4.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv2.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv3.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv4.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv5.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv6.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv8.jpg" alt="video"/></div>
                             </div>
                             {/* Add Pagination */}
                             <div className="swiper-pagination" />
@@ -155,13 +155,13 @@ class Home extends Component {
 
                           <div className="swiper-container">
                             <div className="swiper-wrapper">
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv8.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv2.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv6.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv4.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv5.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv3.jpg" alt="video"/></div>
-                              <div className="swiper-slide list_videos"><img src="../../Dist/img/tv8.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv8.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv2.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv6.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv4.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv5.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv3.jpg" alt="video"/></div>
+                              <div className="swiper-slide list_videos"><img src="../../img/tv8.jpg" alt="video"/></div>
                             </div>
                             {/* Add Pagination */}
                             <div className="swiper-pagination" />
@@ -186,17 +186,17 @@ class Home extends Component {
                         <div className="social">
                           <a href="#" className="fb">
                            <span className="info">
-                             <img src="../../Dist/img/facebook.png" alt="facebook" />
+                             <img src="../../img/facebook.png" alt="facebook" />
                             </span> 
                           </a>
                           <a href="#" className="tw">
                             <span className="info">
-                              <img src="../../Dist/img/youtube.png" alt="facebook" />
+                              <img src="../../img/youtube.png" alt="facebook" />
                             </span>
                           </a>
                           <a href="#" className="rss">
                             <span className="info">
-                               <img src="../../Dist/img/insta.png" alt="facebook" />
+                               <img src="../../img/insta.png" alt="facebook" />
                             </span>
                           </a>
                         </div>
