@@ -8,9 +8,7 @@ export default () => {
 	return (
 		<BrowserRouter>
 			<Switch>
-			  <Route exact path='/' component={App}/>
-			  <Route path='/about' component={About}/>
-			  <Route path='/Home' component={Home}/>
+			  <Route path='/' component={Home}/>
 			</Switch>
 		</BrowserRouter>
 	)
