@@ -201,7 +201,7 @@ class Home extends Component {
                           </a>
                         </div>
                         <div className="clear" />
-                        <div className="copyright">©  2014 All Rights Reserved Design By Bavn Softs</div>
+                        <div className="copyright">©  2018 All Rights Reserved Design By Bavn Softs</div>
                       </div>
                     </div>
                   </footer>

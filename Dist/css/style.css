@@ -47,12 +47,13 @@ ul.nav.navbar-nav.navbar-right {
 
 .title_logo img {
     height: 50px;
-    width: 94px;
+    width: 137px;
     padding: 2px;
     margin: 0px;
     position: relative;
     top: -15px;
     bottom: 10px;
+    object-fit: cover;
 }
 .navbar {
     position: fixed!important;
